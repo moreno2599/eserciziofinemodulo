@@ -1,0 +1,462 @@
+
+
+
+.nav{
+    width: 100%;
+    display: flex;
+   justify-content: space-between ;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+ }
+ 
+ hr{
+   margin-top: 0px;
+
+    opacity: 0.3;
+   
+ }
+#logo{width: 80px;
+    padding-left: 94px;
+}
+
+#search{
+    margin-left: 620px;
+    width: 20px;
+    
+}
+
+#save{
+    width: 20px;
+    margin-left: 5px;
+    margin-right: 0px;
+} 
+
+#Ring{
+
+    width: 20px;
+    margin-left: 5px;
+}
+#utente{
+    width: 50px;
+    margin-right: 30px;
+  
+}
+#resume{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: gray;
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: xx-small;
+    padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 20px;
+padding-right: 20px;
+border-radius: 20px;
+
+}
+#oppi{
+    width: 180px;
+    margin-left: 0px;
+   margin-right: 0px;
+padding-left: 20px;
+
+
+}
+
+#pc{
+    width: 180px;
+    padding-left: 20px;
+    height: 110px;
+}
+#Team{
+width: 180px;
+padding-left:20px ;
+height: 110px;
+
+}
+#space{
+    width: 180px;
+    padding-left: 20px;
+}
+.tutto{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.partesinistra{
+
+display: flex;
+flex-direction: column;
+margin-top: 0px;
+
+
+
+
+
+}
+.sottotitoli{
+    padding-left: 100px;
+    margin-top: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: X-small;
+   font-weight: lighter;
+  color: gray;
+ 
+ }
+ .sottotitoli hr{
+    margin-top: 5px;
+  width: 697px;
+    margin-left: 0;
+}
+
+   
+  
+ 
+.colonnadestra{
+    display: flex;
+   
+    margin-top: 20px;
+    flex-direction: column;
+    padding-right: 40px;
+  margin-top: 10px;
+  margin-left: 30px;
+   
+    
+}
+
+.partesu{ 
+    text-align: center;
+width: 300px;
+color: gray;
+}
+
+.centro button{
+
+
+    
+    margin-top: 10px;
+    border-radius: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+padding-right: 20px;   
+    align-items: center;
+    background-color: ghostwhite;
+font-size: x-small;
+font-weight: bold;
+    border: 0;
+
+}
+.centro h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-top: 18px;
+    padding-left: 18px;
+}
+
+.bassodestra{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+  
+   
+}
+#who{
+    padding-left: 20px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.following{
+   
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 5px;
+    padding-left: 10px;
+   
+   
+ 
+
+ 
+
+}
+
+
+.uti{
+    display: flex;
+flex-direction: column;
+padding-right: 40px;
+padding-bottom: 10px;
+margin: 5px;
+
+}
+.uti h4{
+    font-size: small;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 5px;
+}
+.uti h6{
+    color: gray;
+}
+.following button{
+    height: 25px;
+    font-size: x-small;
+    border-radius: 30px;
+    border: 1;
+    padding-left: 15px;
+   padding-right: 15px;
+  background-color: white;
+}
+#fantasma{
+    width: 50px;
+    height: 50px;
+    margin-right: 0px;
+   
+}
+
+
+.SAVED{
+    padding-left: 20px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+font-size: small;
+
+}
+#see{
+    text-decoration: none;
+    color: green;
+    font-size: x-small;
+}
+
+ 
+ .altosave{
+  
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 8px;
+ }
+.help button{
+   width: 50px;
+   font-size: x-small;
+   background-color: white;
+   border: 0;
+   color: gray;
+   
+}
+  
+.help{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 40px;
+margin-bottom: 20px;
+}
+
+
+
+
+
+
+#logo2{
+    width: 30px ;
+    padding-bottom: 5px;
+}
+
+#uccellino{
+    margin-left: 10px;
+    width: 25px;
+
+    
+}
+.partesu button{
+    align-items: baseline;
+    margin-top:10px;
+    margin-bottom: 10px;
+    font-size: smaller;
+    background-color: white;
+    border-radius: 50px;
+    width: 210px ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+    
+}
+#uccellino2{
+    border-radius: 20px;
+    position: absolute;
+    padding-top: 13px;
+padding-left: 20px;
+    width: 25px;
+    
+}
+.partesu h4{
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#maybe{
+    font-size: x-small;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    
+}
+.partesu hr{
+  margin-top: 15px;
+  width: 260px;
+  
+}
+
+
+ 
+.notice{
+    display: flex;
+   margin-top: 0px;
+  align-items: center;
+
+   margin-bottom: 20px;
+ margin-right: 30px;
+  padding-left: 100px;
+   width: 700px;
+   
+ 
+
+ 
+  
+}
+#pallino{
+   width: 25px;
+   height: 25px;
+ 
+
+  
+
+   
+ 
+}
+.altonotice{
+  font-family: Arial, Helvetica, sans-serif;
+   align-content: center;
+    display: flex;
+   font-size: small;
+   margin-bottom: 10px;
+}
+   
+ .altosave{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    align-content: center;
+     display: flex;
+    font-size: x-small;
+ }
+   
+.date{
+
+    color: gray;
+    font-size: x-small;
+    font-weight: 100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+#utente2{
+    height: 20px;
+}
+.uti2{
+    display: flex;
+    align-items: center;
+    color: black;
+    font-weight: bold;
+    
+    
+}
+.uti2 a{
+    text-decoration: none;
+}
+.date h4{
+    margin-top: 10px;
+    padding-left: 7px;
+    font-size: small;
+    color: black;}
+
+
+.altonotice h5{
+    padding-top: 5px;
+    margin: 0;
+   
+    
+}
+.notizia{
+    display: flex;
+flex-direction: column;
+
+
+
+
+}
+.notizia h4{
+    
+    font-size: medium;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.notizia h5{
+   
+    align-items: baseline;
+    color: gray;
+    font-weight: lighter;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+
+}
+#paragrafo{
+    margin-top: 1px;
+}
+
+.bassonotice img{
+width: 10px; 
+
+
+}
+
+.bassonotice{
+    display: flex;
+  justify-content: space-between;
+    align-items: baseline;
+    color: gray;
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: small;
+margin-top: 10px;
+width: 500px;
+
+
+}
+
+.react{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+
+}
+
+.bassonotice button{
+    color:gray;
+    background-color:ghostwhite;
+    border-radius: 50px;
+    border: 0;
+}
+
+ h3,h5,h6,h2,h4{
+    margin: 0px;
+ }
